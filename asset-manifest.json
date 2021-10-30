@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/rlpedro/rlpedro.github.io/static/css/main.7db95452.chunk.css",
-    "main.js": "/rlpedro/rlpedro.github.io/static/js/main.acb0b039.chunk.js",
-    "main.js.map": "/rlpedro/rlpedro.github.io/static/js/main.acb0b039.chunk.js.map",
-    "runtime-main.js": "/rlpedro/rlpedro.github.io/static/js/runtime-main.253b7f34.js",
-    "runtime-main.js.map": "/rlpedro/rlpedro.github.io/static/js/runtime-main.253b7f34.js.map",
-    "static/js/2.74153bd6.chunk.js": "/rlpedro/rlpedro.github.io/static/js/2.74153bd6.chunk.js",
-    "static/js/2.74153bd6.chunk.js.map": "/rlpedro/rlpedro.github.io/static/js/2.74153bd6.chunk.js.map",
-    "static/js/3.eda9c79f.chunk.js": "/rlpedro/rlpedro.github.io/static/js/3.eda9c79f.chunk.js",
-    "static/js/3.eda9c79f.chunk.js.map": "/rlpedro/rlpedro.github.io/static/js/3.eda9c79f.chunk.js.map",
-    "index.html": "/rlpedro/rlpedro.github.io/index.html",
-    "static/css/main.7db95452.chunk.css.map": "/rlpedro/rlpedro.github.io/static/css/main.7db95452.chunk.css.map",
-    "static/js/2.74153bd6.chunk.js.LICENSE.txt": "/rlpedro/rlpedro.github.io/static/js/2.74153bd6.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/rlpedro/rlpedro.github.io/static/media/RLP-forest-edited.70ff4b38.png",
-    "static/media/RLP.3139a22a.png": "/rlpedro/rlpedro.github.io/static/media/RLP.3139a22a.png"
+    "main.css": "/static/css/main.37699c32.chunk.css",
+    "main.js": "/static/js/main.acb0b039.chunk.js",
+    "main.js.map": "/static/js/main.acb0b039.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.38606174.js",
+    "runtime-main.js.map": "/static/js/runtime-main.38606174.js.map",
+    "static/js/2.74153bd6.chunk.js": "/static/js/2.74153bd6.chunk.js",
+    "static/js/2.74153bd6.chunk.js.map": "/static/js/2.74153bd6.chunk.js.map",
+    "static/js/3.eda9c79f.chunk.js": "/static/js/3.eda9c79f.chunk.js",
+    "static/js/3.eda9c79f.chunk.js.map": "/static/js/3.eda9c79f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.37699c32.chunk.css.map": "/static/css/main.37699c32.chunk.css.map",
+    "static/js/2.74153bd6.chunk.js.LICENSE.txt": "/static/js/2.74153bd6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/RLP-forest-edited.70ff4b38.png",
+    "static/media/RLP.3139a22a.png": "/static/media/RLP.3139a22a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.253b7f34.js",
+    "static/js/runtime-main.38606174.js",
     "static/js/2.74153bd6.chunk.js",
-    "static/css/main.7db95452.chunk.css",
+    "static/css/main.37699c32.chunk.css",
     "static/js/main.acb0b039.chunk.js"
   ]
 }

@@ -1,0 +1,90 @@
+.App {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  color: white;
+  /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif; */
+  font-family: "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin-bottom: 10rem;
+}
+
+body {
+  /* content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0; */
+  background-image: url("/Users/salt-dev/Desktop/portfolio/src/imgs/RLP-forest-edited.png");
+  background-repeat: no-repeat;
+  background-size: 120%;
+  background-position: -90px 90%;
+  /* filter: grayscale(60%) brightness(40%); */
+  background-attachment: fixed;
+}
+
+.home {
+  height: 100vh;
+}
+
+.header-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.github-icon,
+.instagram-icon,
+.linkedin-icon {
+  color: rgba(255, 255, 255, 0.925);
+  font-size: 1.5rem;
+  margin: 0 1rem 0 1rem;
+}
+
+.github-icon:hover,
+.instagram-icon:hover,
+.linkedin-icon:hover {
+  color: rgb(212, 170, 85);
+}
+
+.app__title {
+  padding: 1rem;
+  font-size: 2rem;
+  display: inline-block;
+  border: solid 1px transparent;
+  cursor: pointer;
+  color: rgba(255, 255, 255, 0.925);
+}
+
+.app__title:hover {
+  border: solid 1px rgb(212, 170, 85);
+}
+
+.app__subtitle {
+  margin-bottom: 0;
+  color: rgba(255, 255, 255, 0.925);
+}
+
+.app__desc {
+  margin-top: 0;
+  color: rgb(212, 170, 85);
+}
+
+.app__presentation {
+  margin-top: 1rem;
+}
+
+.rlp-pic {
+  /* opacity: 40%; */
+  position: absolute;
+  left: 0;
+  top: 0;
+}

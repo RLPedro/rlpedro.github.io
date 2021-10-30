@@ -1,0 +1,27 @@
+.works {
+  color: rgb(65, 65, 65);
+  /* background-color: transparent; */
+  background-color: rgb(226, 223, 223);
+  margin: 0 15rem 22rem 15rem;
+  opacity: 80%;
+  border-radius: 6px;
+}
+
+.works__title {
+  font-weight: bold;
+  margin-bottom: 0;
+  padding: 1rem 0 1rem 0;
+}
+
+.works__gallery {
+  color: black;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 2fr);
+  /* grid-gap: 10px; */
+}
+
+.works__gallery-item {
+  padding: 4rem 0 4rem 0;
+  background-color: white;
+}
